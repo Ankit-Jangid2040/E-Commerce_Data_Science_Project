@@ -85,3 +85,14 @@ Data Visualization
 Power BI Dashboard
      ↓
 Business Insights
+
+
+##  Power BI Dashboard
+
+The project includes an interactive Power BI dashboard for analyzing
+sales, customers, profit, orders, categories, sub-categories and
+regional performance.
+
+### Dashboard Preview
+
+![Superstore Power BI Dashboard](04_PowerBI/Dashboard.png)
